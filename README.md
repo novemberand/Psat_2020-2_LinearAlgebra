@@ -14,7 +14,8 @@
 - 최소신장나무, 다익스트라 알고리즘 통한 버스 노선 설계 및 Kakao API 지도 시각화
 
 #### 분석 기법
-공간회귀(Spatial Lag model, Spatial Error model), clustering(kmeans, pam), K-function 공간군집도, Dijkstra algorithm, Spanning Tree
+공간회귀(Spatial Lag model, Spatial Error model), clustering(kmeans, pam), K-function 공간군집도,   
+Dijkstra algorithm, Spanning Tree
 
 #### 프로젝트 결과
 1위 (학회 내)
